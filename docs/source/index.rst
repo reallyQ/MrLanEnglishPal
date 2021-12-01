@@ -21,3 +21,22 @@ Indices and tables
 
 12312312
 邱政淞
+
+
+[toc]
+
+
+
+## 任务一 Module-level dependency analysis （By snakefood）
+
+
+
+### 实验步骤
+
+
+
+#### Linux Ubuntu
+
+- 安装 snakefood
+
+  `` pip install snakefood``
