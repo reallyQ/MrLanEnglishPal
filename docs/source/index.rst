@@ -11,7 +11,7 @@ Welcome to MrLanEnglishPal's documentation!
    :caption: Contents:
 
 
-exmple
+example
 
 Indices and tables
 ==================
