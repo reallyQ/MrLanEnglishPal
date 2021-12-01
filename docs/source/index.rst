@@ -11,7 +11,6 @@ Welcome to MrLanEnglishPal's documentation!
    :caption: Contents:
 
 
-example
 
 Indices and tables
 ==================
@@ -19,25 +18,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-12312312
-邱政淞
-
-
-[toc]
-
-
-
-## 任务一 Module-level dependency analysis （By snakefood）
-
-
-
-### 实验步骤
-
-
-
-#### Linux Ubuntu
-
-- 安装 snakefood
-
-  `` pip install snakefood``
