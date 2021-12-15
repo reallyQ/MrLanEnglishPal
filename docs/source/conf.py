@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'MrLanEnglishPal'
-copyright = '2021, Chur'
-author = 'Chur'
+project = 'Mr.Lan Lab2'
+copyright = '2021, Xia'
+author = 'Xia'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1'
+release = '0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,7 +31,6 @@ release = 'v1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -42,7 +41,7 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'zh_CN'
+language = ''
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
